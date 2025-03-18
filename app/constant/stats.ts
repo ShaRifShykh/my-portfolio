@@ -1,79 +1,79 @@
 export const businesses  = [
     {
-        url: "#",
+        url: "https://www.linkedin.com/company/codedice-technologies/",
         text: "Founder @ ",
         title: "CodeDice Technologies",
         subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
+        description: "Turning ideas into powerful digital solutions!"
     },
     {
-        url: "#",
+        url: "https://www.linkedin.com/company/devextra-solutions/",
         text: "Co-Founder @ ",
         title: "Devextra Solutions",
         subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
+        description: ""
     }
 ];
 
 export const experiences = [
     {
-        url: "#",
+        url: "http://powerofmillion.com/",
         text: "Software Engineer @ ",
         title: "Power of Million LLC",
         subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
+        description: "Engineered scalable and high-performance software solutions, contributing to innovative projects that drive business growth. Focused on developing robust applications, optimizing performance, and delivering seamless user experiences."
     },
     {
-        url: "#",
+        url: "http://fiverr.com/",
         text: "Top Rated Freelancer @ ",
         title: "Fiverr",
         subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
+        description: "Top-Rated Fiverr Freelancer – Delivering high-quality apps and websites with precision, creativity, and expertise!"
     },
     {
-        url: "#",
+        url: "http://upwork.com",
         text: "Freelancer @ ",
         title: "Upwork Talent",
         subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
+        description: "Empowering startups with high-performance apps and websites, contributing to 10+ successful launches and millions in revenue!"
     }
 ];
 
 export const projects = [
     {
-        url: "#",
+        url: "http://madmonkeywash.com/",
         text: "",
         title: "Mad Monkey Wash",
         subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
+        description: "A smart, seamless way to book, manage, and track car detailing services with ease!"
     },
     {
-        url: "#",
-        text: "",
-        title: "Khaleej Embassy",
-        subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
-    },
-    {
-        url: "#",
+        url: "http://intellivid.ai/",
         text: "",
         title: "Intellivid",
         subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
+        description: "AI-powered video creation made effortless—edit, enhance, and generate stunning content in seconds!"
     },
     {
-        url: "#",
+        url: "http://khaleejembassy.com/",
+        text: "",
+        title: "Khaleej Embassy",
+        subText: "",
+        description: "Bridging businesses and customers across the Gulf—discover deals, connect, and grow effortlessly!"
+    },
+    {
+        url: "https://apps.apple.com/us/app/suboro-tv/id6478163097",
         text: "",
         title: "SuboroTV",
         subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
+        description: ""
     },
     {
         url: "#",
         text: "",
         title: "Conbat",
         subText: "",
-        description: "On the side documenting the journey with 100k+ newsletter subscribers"
+        description: "Streamlining construction management with smart budgeting and real-time tracking!"
     },
     // {
     //     url: "#",

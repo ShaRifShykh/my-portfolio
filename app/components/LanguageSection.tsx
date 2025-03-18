@@ -6,8 +6,9 @@ export default function CommonSection() {
         <div className="container-card">
           <div>
             <span>
-              <strong>English</strong> (fluent), <strong>Urdu</strong> (native),{" "}
-              <strong>Arabic</strong> (conversational)
+              <strong>English</strong> (fluent), <strong>Urdu</strong> (native)
+              {/* ,{" "}
+              <strong>Arabic</strong> (conversational) */}
             </span>
           </div>
         </div>
