@@ -28,7 +28,7 @@ export const experiences = [
         text: "Top Rated Freelancer @ ",
         title: "Fiverr",
         subText: "",
-        description: "Top-Rated Fiverr Freelancer – Delivering high-quality apps and websites with precision, creativity, and expertise!"
+        description: "Delivering high-quality apps and websites with precision, creativity, and expertise!"
     },
     {
         url: "http://upwork.com",
