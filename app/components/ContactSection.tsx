@@ -57,7 +57,7 @@ export default function ContactSection() {
                 width="24"
                 height="24"
                 viewBox="0 0 24 24"
-                fill="black"
+                fill="currentColor"
               >
                 <path
                   fill-rule="evenodd"
