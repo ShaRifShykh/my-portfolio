@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Providers } from "./providers";
 import ThemeToggleButton from "./components/ThemeToggleButton";
+import { Analytics } from "@vercel/analytics/react";
 
 const interFont = Inter({
   variable: "--font-inter",
@@ -25,6 +26,7 @@ export default function RootLayout({
         <Providers>
           <ThemeToggleButton />
           {children}
+          <Analytics />
         </Providers>
       </body>
     </html>
