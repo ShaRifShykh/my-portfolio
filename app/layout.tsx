@@ -4,6 +4,7 @@ import "./globals.css";
 import { Providers } from "./providers";
 import ThemeToggleButton from "./components/ThemeToggleButton";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const interFont = Inter({
   variable: "--font-inter",
@@ -27,6 +28,7 @@ export default function RootLayout({
           <ThemeToggleButton />
           {children}
           <Analytics />
+          <SpeedInsights />
         </Providers>
       </body>
     </html>
